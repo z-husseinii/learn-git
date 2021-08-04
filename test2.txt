@@ -1,0 +1,3 @@
+this file is created to for learning git in windows!
+i would finish this course in 2 day.
+
